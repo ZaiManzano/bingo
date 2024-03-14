@@ -18,6 +18,6 @@ function generateRandomNumber(max) {
         return console.log(`Random Number ${randomNum} is in O. 61 - 75`)
     } 
     else {
-       return console.log(`Random Number is invalid.`)
+       return console.log(`Random Number is invalid.`);
     }  
 }
