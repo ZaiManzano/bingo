@@ -7,6 +7,8 @@ let B = false,
 
     generateRandomNumber(30);
 
+    // wahts up
+
 function generateRandomNumber(max) {
     let randomNum = Math.floor(Math.random() * max) + 1;
    
